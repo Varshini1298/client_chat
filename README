@@ -1,0 +1,10 @@
+There are two programs:
+1.Single server/client communication--
+Compile using makefile for server.c and client.c.
+Execute single server with single/multiple client(s) simultaneously.
+
+2.Multiple rounds of Server/client communication--
+Compile using the same makefile with serverTCP.c and clientTCP.c.
+Execute multiple servers with multiple clients simultaneously.
+
+
