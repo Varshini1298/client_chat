@@ -1,6 +1,0 @@
-For Single Client Communication: 
-How to run:
-gcc client.c -o client
-gcc server.c -o server
-For Multiple Clients Communication:
-To connect the server as a client: telnet localhost 8888(try running on diff machines)
